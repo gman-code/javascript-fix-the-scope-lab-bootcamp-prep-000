@@ -13,11 +13,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
- function myFunction() {
-    y = cat;
-    console.log(dog);
-  }
-
+ return animal
 }
 
 function add2(n) {
