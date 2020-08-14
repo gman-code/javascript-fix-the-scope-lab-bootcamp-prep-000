@@ -12,9 +12,9 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  myFunction() {
+ function myFunction() {
     y = cat;
-    console.log()
+    console.log(dog)
   }
 
 }
