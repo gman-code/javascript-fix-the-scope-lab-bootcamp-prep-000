@@ -14,7 +14,7 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
  function myFunction() {
     y = cat;
-    console.log(dog)
+    console.log(dog);
   }
 
 }
